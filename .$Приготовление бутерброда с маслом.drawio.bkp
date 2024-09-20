@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Страница — 1" id="iFPsV9rSaQshur8d4-Ft">
+    <mxGraphModel dx="1110" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KHRSDsvvynWuyrupeJlp-5" value="Приготовление бутерброда с маслом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KHRSDsvvynWuyrupeJlp-6" target="KHRSDsvvynWuyrupeJlp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-6" value="Начало" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHRSDsvvynWuyrupeJlp-7" target="KHRSDsvvynWuyrupeJlp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-7" value="&lt;div&gt;Пожарить хлеб&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHRSDsvvynWuyrupeJlp-9" target="KHRSDsvvynWuyrupeJlp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-9" value="Намазать масло на хлеб" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KHRSDsvvynWuyrupeJlp-10" target="KHRSDsvvynWuyrupeJlp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-10" value="&lt;div&gt;Положить на тарелку&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHRSDsvvynWuyrupeJlp-13" value="Конец" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
